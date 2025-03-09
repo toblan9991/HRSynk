@@ -14,7 +14,7 @@ Follow these steps to set up and run the project:
 
 3. Start the backend server:
    ```sh
-   npm run
+   npm run dev
 
 ## Frontend Setup
 4. Open a new Command Prompt window or tab, or a new terminal in your VS Code environment
